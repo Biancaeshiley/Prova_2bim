@@ -1,0 +1,11 @@
+C:\Users\2022102020061\source\repos\prova2bim\prova2bim\bin\Debug\prova2bim.exe.config
+C:\Users\2022102020061\source\repos\prova2bim\prova2bim\bin\Debug\prova2bim.exe
+C:\Users\2022102020061\source\repos\prova2bim\prova2bim\bin\Debug\prova2bim.pdb
+C:\Users\2022102020061\source\repos\prova2bim\prova2bim\obj\Debug\prova2bim.csproj.AssemblyReference.cache
+C:\Users\2022102020061\source\repos\prova2bim\prova2bim\obj\Debug\prova2bim.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020061\source\repos\prova2bim\prova2bim\obj\Debug\prova2bim.Form1.resources
+C:\Users\2022102020061\source\repos\prova2bim\prova2bim\obj\Debug\prova2bim.Properties.Resources.resources
+C:\Users\2022102020061\source\repos\prova2bim\prova2bim\obj\Debug\prova2bim.csproj.GenerateResource.cache
+C:\Users\2022102020061\source\repos\prova2bim\prova2bim\obj\Debug\prova2bim.csproj.CoreCompileInputs.cache
+C:\Users\2022102020061\source\repos\prova2bim\prova2bim\obj\Debug\prova2bim.exe
+C:\Users\2022102020061\source\repos\prova2bim\prova2bim\obj\Debug\prova2bim.pdb
